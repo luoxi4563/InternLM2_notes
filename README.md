@@ -1,2 +1,3 @@
 # InternLM2_notes
-InternLM2学习笔记
+书生·浦语大模型实战营学习课程作业
+
